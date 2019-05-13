@@ -1,0 +1,63 @@
+{
+    "search_products": [
+        {
+            "id": "2",
+            "image_url": "../../../images/phone/mix2s.jpg",
+            "title": "小米MIX2S 全面屏游戏拍照手机 6GB+128GB 黑色 骁龙845处理器 全网通4G 陶瓷手机",
+            "price": "2199.00",
+            "num_comment": "999+",
+            "good_comment_percent": "98",
+			"keyword":["小米","手机"]
+        },
+        {
+            "id": "3",
+            "image_url": "../../../images/phone/p30.jpg",
+            "title": "华为 HUAWEI P30 超感光徕卡三摄麒麟980AI智能芯片全面屏屏内指纹版手机8GB+128GB亮黑色全网通双4G手机",
+            "price": "4288.00",
+            "num_comment": "999+",
+            "good_comment_percent": "96",
+			"keyword":["华为","手机"]
+        },
+        {
+            "id": "1",
+            "image_url": "../../../images/phone/mi8.jpg",
+            "title": "小米8屏幕指纹版 8GB+128GB 透明版 全网通4G 双卡双待 全面屏拍照游戏智能手机",
+            "price": "2699.00",
+            "num_comment": "999+",
+            "good_comment_percent": "97",
+			"keyword":["小米","手机"]
+        },
+        {
+            "id": "000003",
+            "image_url": "../../../images/index/result_image02.png",
+            "title": "赛菲尔足金999.9黄金手链 足金手表链男款 土豪老板链 霸气貔貅手链首饰改运势",
+            "price": "12005",
+            "num_comment": "2",
+            "good_comment_percent": "100"
+        },
+        {
+            "id": "000003",
+            "image_url": "../../../images/index/result_image03.png",
+            "title": "赛菲尔足金999.9黄金手链 足金手表链男款 土豪老板链 霸气貔貅手链首饰改运势",
+            "price": "10200",
+            "num_comment": "2",
+            "good_comment_percent": "100"
+        },
+        {
+            "id": "000001",
+            "image_url": "../../../images/index/result_image03.png",
+            "title": "赛菲尔足金999.9黄金手链 足金手表链男款 土豪老板链 霸气貔貅手链首饰改运势",
+            "price": "85555",
+            "num_comment": "2",
+            "good_comment_percent": "100"
+        },
+        {
+            "id": "000002",
+            "image_url": "../../../images/index/result_image01.png",
+            "title": "299元/克 熙禧珠宝 999足金马鞭手链男士黄金手链 经典双幅口 马鞭土豪改变运势",
+            "price": "1",
+            "num_comment": "2",
+            "good_comment_percent": "100"
+        }
+    ]
+}

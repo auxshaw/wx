@@ -1,0 +1,71 @@
+{
+    "goods_detail_arr": [
+		{
+			"id": "1",
+			"big_img_urls":[
+				"../../../images/phone/mi8.jpg",
+				"../../../images/phone/mi8-1.jpg",
+				"../../../images/phone/mi8-2.jpg",
+				"../../../images/phone/mi8-3.jpg"
+			],
+			"small_img_url": "https://i8.mifile.cn/a1/pms_1538019355.46916163.jpg",
+			"shop_name": "小米京东自营旗舰店",
+			"shop_logo_url": "../../../images/phone/mishop.png",
+			"describe": "小米8屏幕指纹版 8GB+128GB 透明版 全网通4G 双卡双待 全面屏拍照游戏智能手机",
+			"specification": "规格：8GB+128GB",
+			"is_selected": true,
+			"is_touch_move": false,
+            "new_price": "2699.00",
+            "old_price": "2899.00",
+			"count": "0",
+			"type": ["黑色","白色","红色"],
+			"size": ["8GB+128GB","4GB+64GB","8GB+256GB"],
+			"default_type":"黑色"
+		},
+		{
+		"id": "2",
+			"big_img_urls":[
+				"../../../images/phone/mix2s.jpg",
+				"../../../images/phone/mix2s-1.jpg",
+				"../../../images/phone/mix2s-2.jpg",
+				"../../../images/phone/mix2s-3.jpg"
+			],
+			"small_img_url": "https://i8.mifile.cn/a1/pms_1522835261.30695790.jpg",
+			"shop_name": "小米京东自营旗舰店",
+			"shop_logo_url": "../../../images/phone/mishop.png",
+			"describe": "小米MIX2S 全面屏游戏拍照手机 6GB+128GB 黑色 骁龙845处理器 全网通4G 陶瓷手机",
+			"specification": "规格：6GB+128GB",
+			"is_selected": true,
+			"is_touch_move": false,
+			"new_price": "2199.00",
+			"old_price": "2299.00",
+			"count": "0",
+			"type": ["黑色","红色","白色"],
+			"size": ["6GB+128GB"],
+			"default_type":"黑色"
+		},
+		{
+		"id": "3",
+			"big_img_urls":[
+				"../../../images/phone/p30.jpg",
+				"../../../images/phone/p30-1.jpg",
+				"../../../images/phone/p30-2.jpg",
+				"../../../images/phone/p30-3.jpg",
+				"../../../images/phone/p30-4.jpg"
+			],
+			"small_img_url": "http://img10.360buyimg.com/n1/s450x450_jfs/t1/30693/17/7599/332089/5c98cc1fE43eafa3c/3b3515c7537efeaf.jpg",
+			"shop_name": "华为京东自营旗舰店",
+			"shop_logo_url": "../../../images/phone/hwshop.jpg",
+			"describe": "华为 HUAWEI P30 超感光徕卡三摄麒麟980AI智能芯片全面屏屏内指纹版手机8GB+128GB亮黑色全网通双4G手机",
+			"specification": "规格：8GB+128GB",
+			"is_selected": true,
+			"is_touch_move": false,
+			"new_price": "4288.00",
+			"old_price": "4388.00",
+			"count": "0",
+			"type": ["黑色","金色","白色"],
+			"size": ["8GB+128GB"],
+			"default_type":"黑色"
+		}
+	]
+}

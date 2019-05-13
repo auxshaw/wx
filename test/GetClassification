@@ -1,0 +1,406 @@
+{
+    "cate_items": [
+        {
+            "cate_id": "1",
+            "cate_name": "手机数码",
+            "children": [
+                {
+                    "child_id": "1",
+                    "name": "小米",
+                    "image": "../../../images/phone/mi.png"
+                },
+                {
+                    "child_id": "2",
+                    "name": "华为",
+                    "image": "../../../images/phone/hw.jpg"
+                },
+                {
+                    "child_id": "3",
+                    "name": "荣耀",
+                    "image": "../../../images/phone/honor.jpg"
+                },
+                {
+                    "child_id": "4",
+                    "name": "iPhone",
+                    "image": "../../../images/phone/iphone.jpg"
+                },
+                {
+                    "child_id": "5",
+                    "name": "vivo",
+                    "image": "../../../images/phone/vivo.png"
+                },
+                {
+                    "child_id": "6",
+                    "name": "oppo",
+                    "image": "../../../images/phone/oppo.png"
+                },
+                {
+                    "child_id": "7",
+                    "name": "魅族",
+                    "image": "../../../images/phone/meizu.jpg"
+                },
+                {
+                    "child_id": "8",
+                    "name": "三星",
+                    "image": "../../../images/phone/sumsung.png"
+                },
+                {
+                    "child_id": "9",
+                    "name": "一加",
+                    "image": "../../../images/phone/1+.jpg"
+                },
+                {
+                    "child_id": "10",
+                    "name": "360手机",
+                    "image": "../../../images/phone/360.jpg"
+                },
+                {
+                    "child_id": "11",
+                    "name": "锤子手机",
+                    "image": "../../../images/phone/T.jpg"
+                },
+                {
+                    "child_id": "12",
+                    "name": "努比亚",
+                    "image": "../../../images/phone/nubio.jpg"
+                }
+            ]
+        },
+        {
+            "cate_id": "2",
+            "cate_name": "电脑办公",
+            "children": [
+                {
+                    "child_id": "1",
+                    "name": "轻薄本",
+                    "image": "http://img13.360buyimg.com/focus/s140x140_jfs/t11071/195/2462134264/9117/cd0688bf/5a17ba79N18b9f3d4.png"
+                },
+                {
+                    "child_id": "2",
+                    "name": "游戏本",
+                    "image": "http://img30.360buyimg.com/focus/s140x140_jfs/t11155/36/2330310765/10690/eb6754c3/5a17ba96N49561fea.png"
+                },
+                {
+                    "child_id": "3",
+                    "name": "机械键盘",
+                    "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t12304/245/965858782/6481/37cb5a9b/5a17ba5aN0406a1b5.jpg"
+                },
+                {
+                    "child_id": "4",
+                    "name": "组装电脑",
+                    "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t14101/325/978287093/8836/e142aa53/5a17ba73N07b12f0c.jpg"
+                },
+                {
+                    "child_id": "5",
+                    "name": "移动硬盘",
+                    "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t13228/333/989759736/4764/2a312c2e/5a17ba7fN0740c051.jpg"
+                },
+                {
+                    "child_id": "6",
+                    "name": "显卡",
+                    "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t12679/262/982342141/7023/d05a11e5/5a17ba57Nf179b4e4.jpg"
+                },
+                {
+                    "child_id": "7",
+                    "name": "游戏台式机",
+                    "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t12865/295/960489437/5723/4f38f11/5a17ba8bN911b7264.jpg"
+                },
+                {
+                    "child_id": "8",
+                    "name": "家用打印机",
+                    "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t12526/166/988611883/3419/3c7507ac/5a17ba5dN8f6ffa5e.jpg"
+                },
+                {
+                    "child_id": "9",
+                    "name": "吃鸡装备",
+                    "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t16210/272/2297735843/7874/66447aee/5a9fa34bNff4ef403.jpg"
+                },
+                {
+                    "child_id": "10",
+                    "name": "曲屏显示器",
+                    "image": "https://img30.360buyimg.com/focus/s140x140_jfs/t13798/322/988648789/3644/1adc5615/5a17ba6dNafc95373.jpg"
+                },
+                {
+                    "child_id": "11",
+                    "name": "投影机",
+                    "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t13492/261/938265048/5840/b5e4bdb6/5a17ba61N61a74bc3.jpg"
+                },
+                {
+                    "child_id": "12",
+                    "name": "日本文具",
+                    "image": "https://img14.360buyimg.com/focus/s140x140_jfs/t16102/63/2286960292/7028/d15c6bd6/5a9fa366N889aad0f.jpg"
+                }
+            ]
+        },
+        {
+            "cate_id": "3",
+            "cate_name": "时尚搭配",
+            "children": [
+                {
+                    "child_id": "3",
+                    "name": "安踏系列",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "1",
+                    "name": "潮人必备",
+                    "image": "../../../images/index/product02.png"
+                },
+                {
+                    "child_id": "2",
+                    "name": "耐克系列",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "3",
+                    "name": "安踏系列",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "4",
+                    "name": "红色卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "5",
+                    "name": "高仿卫衣",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "6",
+                    "name": "西西卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "7",
+                    "name": "两元卫衣",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "8",
+                    "name": "冒牌卫衣",
+                    "image": "../../../images/index/product01.png"
+                }
+            ]
+        },
+        {
+            "cate_id": "4",
+            "cate_name": "鞋靴箱包",
+            "children": [
+                {
+                    "child_id": "3",
+                    "name": "安踏系列",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "4",
+                    "name": "红色卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "1",
+                    "name": "潮人必备",
+                    "image": "../../../images/index/product02.png"
+                },
+                {
+                    "child_id": "2",
+                    "name": "耐克系列",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "3",
+                    "name": "安踏系列",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "5",
+                    "name": "高仿卫衣",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "6",
+                    "name": "西西卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "7",
+                    "name": "两元卫衣",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "8",
+                    "name": "冒牌卫衣",
+                    "image": "../../../images/index/product01.png"
+                }
+            ]
+        },
+        {
+            "cate_id": "5",
+            "cate_name": "运动户外",
+            "children": [
+                {
+                    "child_id": "3",
+                    "name": "安踏系列",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "4",
+                    "name": "红色卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "1",
+                    "name": "潮人必备",
+                    "image": "../../../images/index/product02.png"
+                },
+                {
+                    "child_id": "2",
+                    "name": "耐克系列",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "4",
+                    "name": "红色卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "5",
+                    "name": "高仿卫衣",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "6",
+                    "name": "西西卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "7",
+                    "name": "两元卫衣",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "8",
+                    "name": "冒牌卫衣",
+                    "image": "../../../images/index/product01.png"
+                }
+            ]
+        },
+        {
+            "cate_id": "6",
+            "cate_name": "男装内衣",
+            "children": [
+                {
+                    "child_id": "1",
+                    "name": "潮人必备",
+                    "image": "../../../images/index/product02.png"
+                },
+                {
+                    "child_id": "2",
+                    "name": "耐克系列",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "3",
+                    "name": "安踏系列",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "4",
+                    "name": "红色卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "5",
+                    "name": "高仿卫衣",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "6",
+                    "name": "西西卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "7",
+                    "name": "两元卫衣",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "6",
+                    "name": "西西卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "7",
+                    "name": "两元卫衣",
+                    "image": "../../../images/index/product05.png"
+                }
+            ]
+        },
+        {
+            "cate_id": "7",
+            "cate_name": "冬季潮流",
+            "children": [
+                {
+                    "child_id": "1",
+                    "name": "潮人必备",
+                    "image": "../../../images/index/product02.png"
+                },
+                {
+                    "child_id": "2",
+                    "name": "耐克系列",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "3",
+                    "name": "安踏系列",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "4",
+                    "name": "红色卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "5",
+                    "name": "高仿卫衣",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "6",
+                    "name": "西西卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "7",
+                    "name": "两元卫衣",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "6",
+                    "name": "西西卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "7",
+                    "name": "两元卫衣",
+                    "image": "../../../images/index/product05.png"
+                },
+                {
+                    "child_id": "4",
+                    "name": "红色卫衣",
+                    "image": "../../../images/index/product04.png"
+                },
+                {
+                    "child_id": "5",
+                    "name": "高仿卫衣",
+                    "image": "../../../images/index/product01.png"
+                },
+                {
+                    "child_id": "6",
+                    "name": "西西卫衣",
+                    "image": "../../../images/index/product04.png"
+                }
+            ]
+        }
+    ]
+}

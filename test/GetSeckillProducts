@@ -1,0 +1,31 @@
+{
+    "products_data": [
+        {
+            "id": "1",
+            "description": "小米8屏幕指纹版 8GB+128GB 透明版 全网通4G 双卡双待 全面屏拍照游戏智能手机",
+            "product_name": "小米8屏幕指纹版",
+            "new_price": "2699.00",
+            "old_price": "2899.00",
+            "sold": "51%",
+            "src": "../../images/phone/mi8.jpg"
+        },
+        {
+            "id": "2",
+            "description": "小米MIX2S 全面屏游戏拍照手机 6GB+128GB 黑色 骁龙845处理器 全网通4G 陶瓷手机",
+            "product_name": "小米MIX2S",
+            "now_price": "2199.00",
+            "old_price": "2299.00",
+            "sold": "30%",
+            "src": "../../images/phone/mix2s.jpg"
+        },
+        {
+            "id": "3",
+            "description": "华为 HUAWEI P30 超感光徕卡三摄麒麟980AI智能芯片全面屏屏内指纹版手机8GB+128GB亮黑色全网通双4G手机",
+            "product_name": "华为 HUAWEI P30",
+            "new_price": "4288.00",
+            "old_price": "4388.00",
+            "sold": "34%",
+            "src": "../../images/phone/p30.jpg"
+        }
+    ]
+}

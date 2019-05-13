@@ -1,0 +1,55 @@
+[
+    {
+        "order_id": "001",
+        "order_status": "0",
+        "order_number": "112233",
+        "ordered_time": "2019-5-1 11:58",
+        "consignee_address": "广东省广州市番禺区广州大学城广东工业大学宿舍西区",
+        "invoice_info": "普通发票个人明细",
+        "consignee_name": "Shaw",
+        "order_price": "4898.00",
+        "discount_money": "200.00",
+        "freight_change": "0.00(免运费)",
+        "actual_amount": "4698.00",
+        "goods_brand": "JD 京东",
+        "order_goods": [
+            {
+                "img_url": "../../../images/phone/mi8.jpg",
+                "goods_id": "1",
+                "goods_quantity": "1",
+                "goods_price": "2699.00",
+                "goods_description": "小米8屏幕指纹版 8GB+128GB 透明版 全网通4G 双卡双待 全面屏拍照游戏智能手机"
+            },
+            {
+                "img_url": "../../../images/phone/mix2s.jpg",
+                "goods_id": "2",
+                "goods_quantity": "1",
+                "goods_price": "2199.00",
+                "goods_description": "小米MIX2S 全面屏游戏拍照手机 6GB+128GB 黑色 骁龙845处理器 全网通4G 陶瓷手机"
+            }
+        ]
+    },
+    {
+        "order_id": "002",
+        "order_status": "2",
+        "order_number": "112234",
+        "ordered_time": "2019-5-10 12:00",
+        "consignee_address": "广东省广州市番禺区广州大学城广东工业大学宿舍西区",
+        "consignee_name": "Shaw",
+        "invoice_info": "普通发票个人明细",
+        "order_price": "4288.00",
+        "discount_money": "100.00",
+        "freight_change": "0.00",
+        "actual_amount": "4188.00",
+        "goods_brand": "JD 京东",
+        "order_goods": [
+            {
+                "goods_id": "3",
+                "img_url": "../../../images/phone/p30.jpg",
+                "goods_quantity": "1",
+                "goods_price": "4288.00",
+                "goods_description": "华为 HUAWEI P30 超感光徕卡三摄麒麟980AI智能芯片全面屏屏内指纹版手机8GB+128GB亮黑色全网通双4G手机"
+            }
+        ]
+    }
+]
